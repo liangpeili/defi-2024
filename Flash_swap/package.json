@@ -1,0 +1,23 @@
+{
+  "name": "flash_swap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.6.0",
+    "@uniswap/v2-core": "^1.0.1",
+    "bn.js": "^5.2.0",
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "hardhat": "^2.9.3"
+  }
+}

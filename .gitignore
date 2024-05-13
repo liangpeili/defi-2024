@@ -1,0 +1,14 @@
+Flash_swap/node_modules/*
+
+# Hardhat files
+*/cache
+artifacts
+
+yarn-error.log
+
+hardhat.config.js
+
+accounts.json
+
+Flattened.sol
+.env
